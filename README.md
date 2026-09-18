@@ -21,7 +21,7 @@ Este repositorio contiene la evidencia y el paso a paso de la instalación local
 4. **Omitir configuración:** Durante la pantalla de bienvenida de Elementor, omitimos los pasos de registro para entrar directamente a usar la herramienta de forma local.
 *(Las capturas de pantalla de esta búsqueda y activación están en la carpeta evidencia)*
 ## Parte 3: Instalación Manual de PRO Elements (Desbloqueo)
-**Realizado por: Oliver [Que ponga sus apellidos aquí]**
+**Realizado por: Oliver Fernandez Nava [Que ponga sus apellidos aquí]**
 
 1. **Descarga del archivo:** Para obtener las funciones de pago de forma gratuita, ingresamos a la página oficial `proelements.org` y descargamos el archivo `.zip`.
 2. **Descompresión:** Extraemos el contenido del `.zip` descargado, obteniendo como resultado una carpeta llamada `pro-elements`.
